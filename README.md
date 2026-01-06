@@ -103,8 +103,14 @@ Expected Result: <User successfully logged in and redirected to dashboard>
 Test Case ID: <TC002>
 Requirements: <REQ-124>
 Level: <Medium>
-...
+Description: <Verify password reset>
+Pre-Conditions: <N/A>
+Test Steps: <1. Click forgot password>
+Test Data: <N/A>
+Expected Result: <Password reset email sent>
 ```
+
+Note: Fields with empty or missing values will display as "N/A".
 
 ## Features
 
